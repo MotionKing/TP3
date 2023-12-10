@@ -1,0 +1,708 @@
+.contact1,
+.propos1 {
+  position: absolute;
+  top: 26px;
+  left: 293px;
+  font-weight: 800;
+  display: inline-block;
+  width: 131px;
+  height: 22px;
+}
+.propos1 {
+  left: 129px;
+}
+.profile-icon1 {
+  position: absolute;
+  height: 37.97%;
+  width: 2.79%;
+  top: 24.05%;
+  right: 3.64%;
+  bottom: 37.97%;
+  left: 93.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logo-icon1 {
+  position: absolute;
+  top: 13px;
+  left: 17px;
+  width: 54px;
+  height: 50px;
+  object-fit: cover;
+}
+.label-nom,
+.nav2 {
+  position: absolute;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+}
+.nav2 {
+  width: 100.18%;
+  right: 0;
+  left: -0.18%;
+  background-color: mediumaquamarine;
+  box-shadow: 0 4px 4px;
+  height: 79px;
+  overflow: hidden;
+  font-size: x-large;
+}
+.label-nom {
+  top: 8.6px;
+  left: 14px;
+  display: flex;
+  align-items: center;
+  width: 36.2px;
+  height: 17px;
+}
+.input {
+  border: 1px solid grey;
+  background-color: transparent;
+  left: 60px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.input,
+.input1,
+.label-prnom {
+  position: absolute;
+  top: 9px;
+}
+.label-prnom {
+  left: 356px;
+  font-size: 14.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 17px;
+}
+.input1 {
+  border: 1px solid gray;
+  background-color: transparent;
+  left: 439px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.label-email {
+  cursor: pointer;
+  position: absolute;
+  top: 63px;
+  left: 8px;
+  
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 42.4px;
+  height: 17px;
+}
+.fieldset,
+.input2 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.input2 {
+  border: 2px solid gray;
+  background-color: white;
+  top: 61px;
+  left: 71px;
+  width: 177px;
+  height: 21px;
+}
+.fieldset {
+  top: 250px;
+  right: -161px;
+  left: 1px;
+  border: 2px solid silver;
+  height: 105px;
+}
+.oceanie,
+.question1 {
+  position: absolute;
+  top: 7.6px;
+  left: 14px;
+  font-size: 13.63px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 119px;
+  height: 17px;
+}
+.oceanie {
+  top: 27px;
+  left: 1px;
+  font-size: 15.88px;
+  width: 66px;
+}
+.checkbox {
+  cursor: pointer;
+  position: absolute;
+  top: 31px;
+  left: 157px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.afrique {
+  position: absolute;
+  top: 48px;
+  left: 1px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 59px;
+  height: 17px;
+}
+.checkbox1 {
+  cursor: pointer;
+  position: absolute;
+  top: 52px;
+  left: 157px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.europe {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 66px;
+  height: 17px;
+}
+.checkbox2 {
+  cursor: pointer;
+  position: absolute;
+  top: 73px;
+  left: 157px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.moyen-orient {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 102px;
+  height: 17px;
+}
+.checkbox3 {
+  cursor: pointer;
+  position: absolute;
+  top: 93px;
+  left: 157px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.nord {
+  position: absolute;
+  top: 109px;
+  left: 0;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 164px;
+  height: 17px;
+}
+.checkbox4 {
+  cursor: pointer;
+  top: 113px;
+  left: 157px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.checkbox4,
+.checkbox5,
+.sud {
+  position: absolute;
+}
+.sud {
+  top: 131px;
+  left: 1px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 140px;
+  height: 17px;
+}
+.checkbox5 {
+  cursor: pointer;
+  top: 133px;
+  left: 157px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.asie {
+  position: absolute;
+  top: 148px;
+  left: 3px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 47.8px;
+  height: 17px;
+}
+.checkbox6,
+.fieldset1 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.checkbox6 {
+  cursor: pointer;
+  top: 155px;
+  left: 157px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.fieldset1 {
+  width: calc(100% - 1px);
+  top: 398px;
+  right: -4px;
+  left: 5px;
+  border: 2px solid silver;
+  height: 178px;
+}
+.nourriture,
+.question2 {
+  position: absolute;
+  top: 7.6px;
+  left: 14px;
+  font-size: 13.25px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 117.3px;
+  height: 17px;
+}
+.nourriture {
+  top: 28px;
+  font-size: 15.88px;
+  width: 84px;
+}
+.checkbox7 {
+  cursor: pointer;
+  position: absolute;
+  top: 32px;
+  left: 131px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.transportation {
+  position: absolute;
+  top: 47px;
+  left: 14px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 116px;
+  height: 17px;
+}
+.checkbox8 {
+  cursor: pointer;
+  position: absolute;
+  top: 52px;
+  left: 131px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.destination {
+  position: absolute;
+  top: 68px;
+  left: 14px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 95px;
+  height: 17px;
+}
+.checkbox9 {
+  cursor: pointer;
+  position: absolute;
+  top: 72px;
+  left: 131px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.festival {
+  position: absolute;
+  top: 88px;
+  left: 14px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 76px;
+  height: 17px;
+}
+.checkbox10 {
+  cursor: pointer;
+  position: absolute;
+  top: 92px;
+  left: 131px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.cout {
+  position: absolute;
+  top: 108px;
+  left: 14px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 76px;
+  height: 17px;
+}
+.checkbox11 {
+  cursor: pointer;
+  position: absolute;
+  top: 112px;
+  left: 131px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.autre1 {
+  position: absolute;
+  top: 127.6px;
+  left: 14px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 47.8px;
+  height: 17px;
+}
+.checkbox12,
+.fieldset2 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.checkbox12 {
+  cursor: pointer;
+  top: 132px;
+  left: 131px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.fieldset2 {
+  top: 619px;
+  right: -4px;
+  left: -4px;
+  border: 2px solid silver;
+  height: 158px;
+}
+.nocturene,
+.question3 {
+  position: absolute;
+  top: 7.6px;
+  left: 14px;
+  font-size: 13.63px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 80.3px;
+  height: 17px;
+}
+.nocturene {
+  top: 27px;
+  font-size: 15.88px;
+  width: 105px;
+}
+.checkbox13 {
+  cursor: pointer;
+  position: absolute;
+  top: 31px;
+  left: 125px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.achat {
+  position: absolute;
+  top: 48px;
+  left: 14px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 64px;
+  height: 17px;
+}
+.checkbox14 {
+  cursor: pointer;
+  position: absolute;
+  top: 52px;
+  left: 125px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.animanga {
+  position: absolute;
+  top: 69px;
+  left: 14px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 123px;
+  height: 17px;
+}
+.checkbox15 {
+  cursor: pointer;
+  position: absolute;
+  top: 72px;
+  left: 125px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.luxe {
+  position: absolute;
+  top: 88px;
+  left: 14px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 47.8px;
+  height: 17px;
+}
+.checkbox16 {
+  cursor: pointer;
+  position: absolute;
+  top: 92px;
+  left: 125px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.art {
+  position: absolute;
+  top: 109px;
+  left: 12px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 131px;
+  height: 17px;
+}
+.checkbox17 {
+  cursor: pointer;
+  position: absolute;
+  top: 110px;
+  left: 125px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.autre2 {
+  position: absolute;
+  top: 132px;
+  left: 13px;
+  font-size: 15.88px;
+  font-family: Inter;
+  color: black;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 47.8px;
+  height: 17px;
+}
+.checkbox18,
+.fieldset3 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.checkbox18 {
+  cursor: pointer;
+  top: 132px;
+  left: 125px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.fieldset3 {
+  top: 834px;
+  right: -4px;
+  left: -4px;
+  border: 2px solid silver;
+  height: 158px;
+}
+.sujet {
+  position: absolute;
+  top: 9px;
+  left: 8px;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 45px;
+  height: 17px;
+}
+.inputsuj {
+  border: 1px solid gray;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 71px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.message {
+  cursor: pointer;
+  position: absolute;
+  top: 61px;
+  left: 0;
+  background-color: white;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 69px;
+  height: 17px;
+}
+.inputmesg,
+.submit {
+  position: absolute;
+  box-sizing: border-box;
+}
+.inputmesg {
+  border: 2px solid gray;
+  background-color: white;
+  top: 61px;
+  left: 71px;
+  width: 1029px;
+  height: 413px;
+}
+.submit {
+  top: 1103px;
+  right: -160px;
+  left: 0;
+  border: 2px solid silver;
+  height: 488px;
+}
+
