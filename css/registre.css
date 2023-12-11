@@ -11,7 +11,7 @@
 .propos1 {
   left: 129px;
 }
-.profile-icon1 {
+.profile-photo {
   position: absolute;
   height: 38.45%;
   width: 2.79%;
@@ -23,7 +23,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.logo-icon1 {
+.logo-photo {
   position: absolute;
   top: 3px;
   left: 17px;

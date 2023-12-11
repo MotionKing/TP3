@@ -55,3 +55,7 @@ body {
     height: 21px;
   }
   
+
+  a:visited  {
+    color: #000;
+  }
