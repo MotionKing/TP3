@@ -98,4 +98,7 @@
   top: 449px;
 }
 
-
+#imagePropos {
+  max-width: 100%;
+  height: auto;
+}
