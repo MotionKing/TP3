@@ -1,0 +1,101 @@
+#titrePropos {
+  width: 403px;
+  height: 32px;
+  left: 13px;
+  top: 109px;
+  position: absolute;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+#dateSous-titre {
+  width: 175px;
+  height: 27px;
+  left: 13px;
+  top: 153px;
+  position: absolute;
+  color: #979797;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+#paragrapheAccueil {
+  width: 777px;
+  height: 253px;
+  left: 16px;
+  top: 186px;
+  position: absolute;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+#imagePropos {
+  width: 249px;
+  height: 592px;
+  left: 805px;
+  top: 95px;
+  position: absolute;
+}
+
+#réferencePropos {
+  width: 142px;
+  height: 41px;
+  left: 13px;
+  top: 715px;
+  position: absolute;
+}
+
+#paragrapheFoodie {
+  width: 709px;
+  height: 44px;
+  left: 22px;
+  top: 483px;
+  position: absolute;
+  font-weight: 400;
+}
+
+#paragrapheAnime {
+  width: 709px;
+  height: 21px;
+  left: 22px;
+  top: 566px;
+  position: absolute;
+  font-weight: 400;
+}
+
+#paragrapheCulture {
+  width: 709px;
+  height: 44px;
+  left: 22px;
+  top: 636px;
+  position: absolute;
+  font-weight: 400;
+}
+
+.cultureClass,
+.otakuClass,
+.foodieClass {
+  width: 80px;
+  height: 29px;
+  left: 22px;
+  position: absolute;
+  font-size: 22px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.cultureClass {
+  top: 597px;
+}
+
+.otakuClass {
+  top: 532px;
+}
+
+.foodieClass {
+  top: 449px;
+}
+
+
