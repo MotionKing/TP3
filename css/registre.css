@@ -1,0 +1,233 @@
+.contact1,
+.propos1 {
+  position: absolute;
+  top: 16px;
+  left: 293px;
+  font-weight: 800;
+  display: inline-block;
+  width: 131px;
+  height: 22px;
+}
+.propos1 {
+  left: 129px;
+}
+.profile-icon1 {
+  position: absolute;
+  height: 38.45%;
+  width: 2.79%;
+  top: 11.55%;
+  right: 3.64%;
+  bottom: 50%;
+  left: 93.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logo-icon1 {
+  position: absolute;
+  top: 3px;
+  left: 17px;
+  width: 54px;
+  height: 50px;
+  object-fit: cover;
+}
+.navigation {
+  position: absolute;
+  width: 100.18%;
+  top: calc(50% - 1176px);
+  right: 0;
+  left: -0.18%;
+  background-color: mediumaquamarine;
+  box-shadow: 0 4px 4px;
+  height: 71px;
+  overflow: hidden;
+  text-align: left;
+  font-size: x-large;
+  color: black;
+  font-family: Inter;
+}
+.nominput,
+.nomlabel {
+  position: absolute;
+  left: 353px;
+}
+.nomlabel {
+  cursor: pointer;
+  top: 15px;
+  display: flex;
+  align-items: center;
+  width: 36.2px;
+  height: 17px;
+}
+.nominput {
+  border: 1px solid gray;
+  background-color: transparent;
+  top: 37.4px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.prenomlabel {
+  cursor: pointer;
+  top: 75px;
+  font-size: 14.88px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 17px;
+}
+.nomutllabel,
+.prenominput,
+.prenomlabel {
+  position: absolute;
+  left: 353px;
+}
+.prenominput {
+  border: 1px solid gray;
+  background-color: transparent;
+  top: 102px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.nomutllabel {
+  cursor: pointer;
+  top: 139px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+  height: 17px;
+}
+.utilisateurinput {
+  border: 2px solid gray;
+  background-color: white;
+  top: 161px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.emailinput,
+.emaillabel,
+.utilisateurinput {
+  position: absolute;
+  left: 353px;
+}
+.emaillabel {
+  cursor: pointer;
+  top: 209px;
+  display: flex;
+  align-items: center;
+  width: 53px;
+  height: 17px;
+}
+.emailinput {
+  border: 2px solid gray;
+  background-color: white;
+  top: 230px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.mdplabel {
+  cursor: pointer;
+  top: 278px;
+  display: flex;
+  align-items: center;
+  width: 117px;
+  height: 17px;
+}
+.mdpconfirmlabel,
+.mdpinput,
+.mdplabel {
+  position: absolute;
+  left: 353px;
+}
+.mdpinput {
+  border: 2px solid gray;
+  background-color: white;
+  top: 299px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.mdpconfirmlabel {
+  cursor: pointer;
+  top: 337px;
+  display: flex;
+  align-items: center;
+  width: 241px;
+  height: 17px;
+}
+.cmdpinput {
+  border: 2px solid gray;
+  background-color: white;
+  position: absolute;
+  top: 368px;
+  left: 353px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 21px;
+}
+.form-fieldset {
+  position: absolute;
+  top: 189px;
+  right: 212px;
+  left: 86px;
+  height: 407px;
+  text-align: left;
+  color: black;
+  font-family: Inter;
+}
+.button,
+.soumettre {
+  cursor: pointer;
+  position: absolute;
+}
+.soumettre {
+  top: 19px;
+  left: 36px;
+  font-size: 12.57px;
+  font-family: Inter;
+  color: black;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 66px;
+  height: 15px;
+}
+.button {
+  border: 1px solid gray;
+  padding: 0;
+  background-color: whitesmoke;
+  top: 636px;
+  left: 465px;
+  box-sizing: border-box;
+  width: 138px;
+  height: 53px;
+}
+.crez-votre-compte {
+  margin: 0;
+  position: absolute;
+  top: 106px;
+  left: 357px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 353px;
+  height: 83px;
+}
+.registre {
+  position: relative;
+  background-color: white;
+  width: 100%;
+  height: 2352px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 12.57px;
+  color: black;
+  font-family: Inter;
+}
