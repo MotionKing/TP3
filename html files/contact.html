@@ -3,20 +3,22 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>accueil</title>
+    <title>contact</title>
 
-    <link rel="stylesheet" href="main.css" />
-    <link rel="stylesheet" href="nav.css" />
+    <link rel="stylesheet" href="/css files/main.css" />
+    <link rel="stylesheet" href="/css files/contact.css" />
   </head>
   <body>
+
     <div class="header">
       <header class="header2" id="header">
         <div class="contact1">Contact</div>
         <div class="propos1">À propos</div>
         <img class="profile-icon1" alt="" src="./images/profile.svg" />
 
-        <a href="index.html"><img class="logo-icon1" alt="" src="./images/logo.png" /></a>
+        <a href="accueil.html"><img class="logo-icon1" alt="" src="./images/logo.png" /></a>
       </header>
+      
       <form class="fieldset" id="form">
         <div class="label-nom">Nom</div>
         <input class="input" name="nom" id="nom"  required        placeholder="Silver" type="text"/>
@@ -73,7 +75,7 @@
       <form class="fieldset3" id="form3">
         <div class="question3">Vos interet?:</div>
         <div class="nocturene">Vie nocturne</div>
-        <input class="checkbox13" type="radio" name="question3"/>
+        <input class="checkbox13" type="radio"  required  name="question3"/>
 
         <div class="achat">Achats</div>
         <input class="checkbox14" type="radio" name="question3"/>
@@ -96,11 +98,10 @@
 
         <label class="message" htmlfor="email">Message</label>
         <input class="inputmesg" name="message" id="message" placeholder="Écrivez votre message ici" type="text"/>
-        
       </form>
-      <button class="button" id="submit">
-        <div class="soumettre" id="soumettreText"><a href="index.html">Soumettre</a></div>
-      </button>
+      <a href="contact-succes.html"><button type="submit" class="button" id="submit">
+        <div class="soumettre" id="soumettreText">Soumettre</div>
+      </button></a>
     </div>
   </body>
 </html>
