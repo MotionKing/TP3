@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>registre</title>
+    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="registre.css" />
+  </head>
+  <body>
+    <div class="registre">
+      <header class="navigation" id="navigation">
+        <div class="contact1">Contact</div>
+        <div class="propos1">À propos</div>
+        <img class="profile-icon1" alt="" src="./images/profile.svg" />
+
+        <img class="logo-icon1" alt="" src="./images/logo.png" />
+      </header>
+      <form  method="post"    action="accueil.html">
+      <fieldset class="form-fieldset" id="formregistre">
+        <label class="nomlabel" for="nomr">Nom </label>
+        <input class="nominput" name="nom" id="nomr"  required      placeholder="Silver" type="text"
+        />
+
+        <label class="prenomlabel" for="prenomr">Prénom </label>
+        <input class="prenominput" name="prenom"   required      id="prenomr" placeholder="Adam" type="text"
+        />
+
+        <label class="nomutllabel" for="user">Nom d'utilisateur</label>
+        <input class="utilisateurinput" name="nomuser" id="user"   required       placeholder="Alex4567" type="text"/>
+
+        <label class="emaillabel" for="emailr">Email:</label>
+        <input class="emailinput" name="email" id="emailr"  required          placeholder="@domain.com" type="email"/>
+
+        <label class="mdplabel" for="mdp">Mot de pass:*</label>
+        <input class="mdpinput" name="pw" id="mdp"  required           placeholder="**********" type="password"/>
+
+        <label class="mdpconfirmlabel" for="cmdp"
+          >Confirmation de mot de passe:</label
+        >
+        <input class="cmdpinput" name="cpw" id="cmdp"   required           placeholder="**********" type="password"/>
+      </fieldset>
+      <a href="accueil.html"><input type="submit" class="button" id="submit">
+        <div class="soumettre" id="soumettreText">S’inscrire</div>
+      </button></a>
+      <h3 class="crez-votre-compte" id="Titre"><b>Créez votre compte</b></h3>
+    </div>
+  </form>
+  </body>
+</html>
