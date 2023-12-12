@@ -1,0 +1,154 @@
+#titreCulture {
+    width: 688px;
+    height: 40px;
+    left: 196px;
+    top: 114px;
+    position: absolute;
+    font-size: 34px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+#descriptionMountFuji {
+    width: 211px;
+    height: 16px;
+    left: 195px;
+    top: 571px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageMountFuji {
+    width: 686px;
+    height: 387px;
+    left: 195px;
+    top: 184px;
+    position: absolute;
+}
+
+#descriptionPalais {
+    width: 215px;
+    height: 25px;
+    left: 235px;
+    top: 1245px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imagePalais {
+    width: 553px;
+    height: 345px;
+    left: 232px;
+    top: 900px;
+    position: absolute;
+}
+  
+#descriptionBouddha {
+    width: 300px;
+    height: 23px;
+    left: 290px;
+    top: 1960px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageBouddha {
+    width: 418px;
+    height: 290px;
+    left: 287px;
+    top: 1670px;
+    position: absolute;
+}
+  
+#descriptiontemple {
+    width: 177px;
+    height: 23px;
+    left: 235px;
+    top: 2440px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imagetemple {
+    width: 482px;
+    height: 275px;
+    left: 231px;
+    top: 2165px;
+    position: absolute;
+}
+
+#descriptionBambous {
+    width: 300px;
+    height: 23px;
+    left: 249px;
+    top: 2970px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageBambous {
+    width: 456px;
+    height: 292px;
+    left: 249px;
+    top: 2675px;
+    position: absolute;
+}  
+#descriptionNara {
+    width: 101px;
+    height: 23px;
+    left: 260px;
+    top: 3500px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageNara {
+    width: 434px;
+    height: 295px;
+    left: 255px;
+    top: 3200px;
+    position: absolute;
+}
+
+#descriptionMusée {
+    width: 272px;
+    height: 23px;
+    left: 208px;
+    top: 4050px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageMusée {
+    width: 527px;
+    height: 287px;
+    left: 208px;
+    top: 3760px;
+    position: absolute;
+}
+
+.paragraphe {
+    font-size: 18px;
+}
