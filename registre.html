@@ -9,6 +9,7 @@
   </head>
   <body>
     <div class="registre">
+      <!-- Barre navigation -->
       <header class="navigation" id="navigation">
         <div class="contact1"><a href="contact.html">Contact</a></div>
         <div class="propos1"><a href="propos.html">À propos</a></div>
@@ -18,28 +19,27 @@
       </header>
       <form  method="post"    action="accueil.html">
       <fieldset class="form-fieldset" id="formregistre">
+
+        <!-- Le nom -->
         <label class="nomlabel" for="nomr">Nom </label>
-        <input class="nominput" name="nom" id="nomr"  required      placeholder="Silver" type="text"
-        />
-
+        <input class="nominput" name="nom" id="nomr"  required      placeholder="Silver" type="text"/>
+        <!-- Le prénom -->
         <label class="prenomlabel" for="prenomr">Prénom </label>
-        <input class="prenominput" name="prenom"   required      id="prenomr" placeholder="Adam" type="text"
-        />
-
+        <input class="prenominput" name="prenom"   required      id="prenomr" placeholder="Adam" type="text"/>
+        <!-- Le nom d'utilisateur -->
         <label class="nomutllabel" for="user">Nom d'utilisateur</label>
         <input class="utilisateurinput" name="nomuser" id="user"   required       placeholder="Alex4567" type="text"/>
-
+        <!-- Le email -->
         <label class="emaillabel" for="emailr">Email:</label>
         <input class="emailinput" name="email" id="emailr"  required          placeholder="@domain.com" type="email"/>
-
+        <!-- Le mot de passe -->
         <label class="mdplabel" for="mdp">Mot de pass:*</label>
         <input class="mdpinput" name="pw" id="mdp"  required           placeholder="**********" type="password"/>
-
-        <label class="mdpconfirmlabel" for="cmdp"
-          >Confirmation de mot de passe:</label
-        >
+        <!-- La confirmation de mot de pass (Aucun script) -->
+        <label class="mdpconfirmlabel" for="cmdp">Confirmation de mot de passe:</label>
         <input class="cmdpinput" name="cpw" id="cmdp"   required           placeholder="**********" type="password"/>
       </fieldset>
+      <!-- Boutton soumettre -->
       <a href="accueil.html"><input type="submit" value="S'inscrire" class="button" id="submit">
         <div class="soumettre" id="soumettreText"></div>
       </button></a>
