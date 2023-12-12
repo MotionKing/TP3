@@ -1,0 +1,163 @@
+#descriptionAkihabara1 {
+    width: 126px;
+    height: 16px;
+    left: 267px;
+    top: 503px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageAkihabara1 {
+    width: 564px;
+    height: 332px;
+    left: 267px;
+    top: 171px;
+    position: absolute;
+}
+
+#descriptionAkihabara2 {
+    width: 126px;
+    height: 16px;
+    left: 276px;
+    top: 1090px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageAkihabara2 {
+    width: 480px;
+    height: 286px;
+    left: 276px;
+    top: 800px;
+    position: absolute;
+}
+  
+#descriptionNakano {
+    width: 162px;
+    height: 16px;
+    left: 276px;
+    top: 1560px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageNakano {
+    width: 494px;
+    height: 308px;
+    left: 276px;
+    top: 1250px;
+    position: absolute;
+}
+
+#descriptionGundam {
+    width: 162px;
+    height: 16px;
+    left: 253px;
+    top: 2020px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageGundam {
+    width: 453px;
+    height: 255px;
+    left: 250px;
+    top: 1760px;
+    position: absolute;
+}
+
+#descriptionSanctuaire {
+    width: 229px;
+    height: 16px;
+    left: 262px;
+    top: 3100px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageSanctuaire {
+    width: 459px;
+    height: 259px;
+    left: 247px;
+    top: 2225px;
+    position: absolute;
+}
+
+#descriptionMusée {
+    width: 229px;
+    height: 16px;
+    left: 247px;
+    top: 2655px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageMusée {
+    width: 429px;
+    height: 277px;
+    left: 262px;
+    top: 2700px;
+    position: absolute;
+}
+
+#descriptionQuartier {
+    width: 229px;
+    height: 16px;
+    left: 229px;
+    top: 3551px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageQuartier {
+    width: 494px;
+    height: 251px;
+    left: 229px;
+    top: 3300px;
+    position: absolute;
+}
+
+#descriptionUniversal {
+    width: 229px;
+    height: 16px;
+    left: 235px;
+    top: 4072px;
+    position: absolute;
+    color: #979797;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+#imageUniversal {
+    width: 445px;
+    height: 326px;
+    left: 235px;
+    top: 3746px;
+    position: absolute;
+}
+
+.paragraphr {
+    font-size: 18px;
+}
