@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./css/contact.css" />
   </head>
   <body>
-
+<!-- Barre navigation -->
     <div class="header">
       <header class="header2" id="header">
         <div class="contact1"><a href="contact.html">Contact</a></div>
@@ -18,7 +18,7 @@
 
         <a href="accueil.html"><img class="logo-photo" alt="" src="./images/logo.png" /></a>
       </header>
-      
+      <!-- Section 1 - Email, Nom et Prénom-->
       <form class="fieldset" id="form">
         <div class="label-nom">Nom</div>
         <input class="input" name="nom" id="nom"  required        placeholder="Silver" type="text"/>
@@ -29,6 +29,7 @@
         <label class="label-email" htmlfor="email">Email </label>
         <input class="input2" name="email" id="email" required       placeholder="@domain.com" type="text"/>
       </form>
+      <!-- Section 2 - Continent -->
       <form class="fieldset1" id="form2">
         <div class="question1">D'où venez-vous?:</div>
         <div class="oceanie">Océanie</div>
@@ -53,6 +54,7 @@
         <input class="checkbox6"  type="radio" name="question1"/>
       </form>
       <form class="fieldset2" id="form2">
+        <!-- Section 3 - Type de demande -->
         <div class="question2">Type de demande:</div>
         <div class="nourriture">Nourriture</div>
         <input class="checkbox7" type="radio" name="question2"/>
@@ -73,7 +75,8 @@
         <input class="checkbox12" type="radio" name="question2"/>
       </form>
       <form class="fieldset3" id="form3">
-        <div class="question3">Vos interet?:</div>
+        <!-- Section 4 Intérêt de l'utilisateur -->
+        <div class="question3">Vos interét?:</div>
         <div class="nocturene">Vie nocturne</div>
         <input class="checkbox13" type="radio"  required  name="question3"/>
 
@@ -93,12 +96,14 @@
         <input class="checkbox18" type="radio" name="question3"/>
       </form>
       <form class="submit" id="form">
+        <!-- Section 5 description du probleme de l'utilisateur -->
         <div class="sujet">Sujet</div>
         <input class="inputsuj" name="sujet" id="sujet" type="text" />
 
         <label class="message" htmlfor="email">Message</label>
         <input class="inputmesg" name="message" id="message" placeholder="Écrivez votre message ici" type="text"/>
       </form>
+      <!-- Boutton soumettre -->
       <a href="contact-succes.html"><button type="submit" class="button" id="submit">
         <div class="soumettre" id="soumettreText">Soumettre</div>
       </button></a>
